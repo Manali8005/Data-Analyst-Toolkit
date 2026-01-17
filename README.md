@@ -17,7 +17,7 @@
  ## Technologies
 ##SQL (PostgreSQL, MySQL)
 ##Python (pandas, numpy, matplotlib)
-##Power BI
+##Power BI 
 
 ## Result
 ##Cleaned raw sales data with SQL
